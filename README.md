@@ -2,6 +2,8 @@
 
 用 React 製作的學習小工具，幫助自己準備 JLPT N3 時管理考試倒數天數與學習進度。支援手機操作、自訂任務、勾選追蹤、狀態儲存等功能，適合考生日常學習使用或作為前端作品展示。
 
+🔗 **Demo**：  
+👉 [https://lin4611.github.io/jlpt-tracker-app/](https://lin4611.github.io/jlpt-tracker-app/)
 ---
 
 ## ✨ 功能特色
