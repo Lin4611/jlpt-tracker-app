@@ -28,8 +28,9 @@
 ---
 
 ## 📷 畫面預覽
-
+###  Demo 預覽 桌機
 ![JLPT 倒數工具 Demo 預覽 桌機](./public/images/demo1.png)
+###  Demo 預覽 手機
 ![JLPT 倒數工具 Demo 預覽 手機](./public/images/demo2.png)
 ## 手機
 
